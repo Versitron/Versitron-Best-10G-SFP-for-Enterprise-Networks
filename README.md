@@ -47,7 +47,7 @@ Designed for businesses and service providers that demand uncompromising speed, 
 
 **Get authentic, high-quality 10G SFP modules directly from Versitron.**
 
-- Purchase directly from the official [Versitron website](https://www.versitron.com/collections/10gb-sfp-modules)  
+- Purchase directly from the official [Versitron website](https://www.versitron.com/)  
 - Access U.S.-based support and product customization options  
 - Benefit from fast shipping and volume pricing for enterprise deployments  
 - Guaranteed genuine products built to ISO and defense-grade quality standards  
